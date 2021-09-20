@@ -1,0 +1,8 @@
+newmtl Mat_Leaves
+Kd 0 1 0.03374434
+d 1
+
+newmtl Mat_Trunk
+Kd 0.5566038 0.3023526 0
+d 1
+
